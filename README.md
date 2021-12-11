@@ -1,3 +1,5 @@
+[Website tutorial](https://magic.link/posts/magic-svelte)
+
 # sveltekit-magic
 
 This is a demo application for using [Magic](https://magic.link/) auth with SvelteKit. Magic provides secure, passwordless authentication for your application.
